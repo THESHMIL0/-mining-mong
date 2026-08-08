@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pickaxe handle -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M38,70 L68,40 L72,44 L42,74 Z" />
+    <path
+        android:fillColor="#A0522D"
+        android:pathData="M39,71 L67,43 L69,45 L41,73 Z" />
+    <!-- Pickaxe head -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M52,32 C60,30 72,34 78,42 C74,40 68,42 62,48 L56,42 Z" />
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M48,46 C42,40 40,34 38,26 C46,32 50,44 54,48 Z" />
+    <!-- Gold nugget -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M30,68 L38,62 L48,66 L50,76 L40,82 L28,76 Z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M32,70 L38,64 L46,67 L44,75 L38,79 L30,74 Z" />
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M34,68 L38,65 L40,68 L36,71 Z" />
+</vector>

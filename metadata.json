@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Mine Tycoon",
+  "description": "An idle mining tycoon game with automated workers, prestige multipliers, cloud save sync, and global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
